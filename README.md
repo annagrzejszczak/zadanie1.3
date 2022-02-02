@@ -4,6 +4,7 @@
 Opis wykonany jest w języku Prolog. Opisane zostały atomy, fakty oraz reguły.
 
 Użyte reguły:
+
 parent(X,Y).
 sibling(X,Y).
 ancestor(X,Y).
