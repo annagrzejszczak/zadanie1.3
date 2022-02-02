@@ -1,4 +1,4 @@
-%Atoms
+% Atoms
 
 wladyslawIIJagiello.
 elzbietaBonifacja.
@@ -57,7 +57,7 @@ stefanBatory.
 janIIIWaza.
 
 
-%Facts
+% Facts
  
 man(wladyslawIIJagiello).
 man(wladyslawIIIWarnenczyk).
